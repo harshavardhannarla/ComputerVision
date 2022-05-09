@@ -1,0 +1,63 @@
+For image:  banana1.jpg
+Accuracy is  0.6386328125
+Jaccard simiularity , 0.7070316722516484
+
+For image:  banana2.jpg
+Accuracy is  0.75283203125
+Jaccard simiularity , 0.9158172000526801
+
+For image:  banana3.jpg
+Accuracy is  0.7502115885416667
+Jaccard simiularity , 0.9398970482830521
+
+For image:  book.jpg
+Accuracy is  0.5752994791666667
+Jaccard simiularity , 0.8701137443664346
+
+For image:  bool.jpg
+Accuracy is  0.8668333333333333
+Jaccard simiularity , 0.0
+
+For image:  bush.jpg
+Accuracy is  0.8190666666666667
+Jaccard simiularity , 0.8819495619421928
+
+For image:  ceramic.jpg
+Accuracy is  0.6706412760416667
+Jaccard simiularity , 0.9240949208827919
+
+For image:  cross.jpg
+Accuracy is  0.6287037037037037
+Jaccard simiularity , 0.31790523690773065
+
+For image:  doll.jpg
+Accuracy is  0.3239656518345043
+Jaccard simiularity , 0.53550516714489
+
+For image:  elefant.jpg
+Accuracy is  0.6180631510416666
+Jaccard simiularity , 0.8410991127664471
+
+For image:  flower.jpg
+Accuracy is  0.7987555555555556
+Jaccard simiularity , 0.9606338339222615
+
+For image:  fullmoon.jpg
+Accuracy is  0.9132385261797027
+Jaccard simiularity , 0.6949783936820146
+
+For image:  grave.jpg
+Accuracy is  0.8729814814814815
+Jaccard simiularity , 0.8462458084268843
+
+For image:  llama.jpg
+Accuracy is  0.8113680427483804
+Jaccard simiularity , 0.8899195008495585
+
+For image:  memorial.jpg
+Accuracy is  0.808374074074074
+Jaccard simiularity , 0.8751038868165214
+
+Avg accuracy is  0.7232644916079379
+Avg jaccard similarity is  0.7466863392196739
+Avg Dice is  0.0
